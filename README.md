@@ -122,3 +122,7 @@ frontend/
 ---
 
 > Status atual: funcional e pronto para publicação em repositório com documentação básica de uso e deploy local.
+>
+> 
+<img width="1366" height="768" alt="Screenshot" src="https://github.com/user-attachments/assets/a83e4df5-6e0e-46a8-b63e-ed4542242759" />
+
